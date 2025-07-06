@@ -51,10 +51,13 @@ The goal of this project is to demonstrate SQL querying skills by answering key 
 ## 🛠️ Tools Used:
 * **SQL Server Management Studio (SSMS)**
 * **T-SQL** (for writing queries)
+* **Power BI**
+* **DAX**
 
 ---
 
 ## 📁 File Structure:
 * retail_sales_analysis - All SQL queries used in the project.
 * retail_sales_dataset - CSV file containing all data.
+* retail_sales_analysis_dashboard - Dashboard containing project visualizations made in Power BI.
 * README.md - Project documentation (this file).
